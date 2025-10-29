@@ -2,9 +2,6 @@
 
 💻 **Full-Stack Developer** | ⚙️ **Laravel & PHP Developer** | 🎨 **UI/UX Focused Engineer**
 
-<p align="center">
-  <img src="https://github.com/sandeep-webkul/sandeep-webkul/blob/main/banner.png" alt="Sandeep Chawla Banner" />
-</p>
 
 ### 🚀 About Me
 
@@ -48,10 +45,11 @@ I enjoy designing intuitive UIs, optimizing performance, and writing maintainabl
 <img title="Postman" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" />
 
 
+<br />
 
-### 📈 GitHub Stats
+---
 
-![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeep-webkul&show_icons=true&theme=tokyonight)
+![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeep-webkul&show_icons=true&hide_border=true)
 
 
 
