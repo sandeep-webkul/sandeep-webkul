@@ -36,7 +36,7 @@
 
 I'm a **Full-Stack Developer** focused on the Laravel/PHP ecosystem, modern frontend development, APIs, integrations, and scalable business applications.
 
-- 🔭 Working on **ERP and community platforms**
+- 🔭 Working on **ERP and ecommerce platforms**
 - ⚙️ Laravel · PHP · Vue.js · Filament
 - 🐳 Docker · CI/CD · Linux
 - 🧪 Pest · PHPUnit · Playwright
