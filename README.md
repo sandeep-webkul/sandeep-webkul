@@ -1,57 +1,116 @@
 # 👋 Hi, I'm Sandeep Chawla
 
-💻 **Full-Stack Developer** | ⚙️ **Laravel & PHP Developer** | 🎨 **UI/UX Focused Engineer**
+```aura width=900 height=180
+<div style={{
+  width: '900px',
+  height: '180px',
+  display: 'flex',
+  flexDirection: 'column',
+  justifyContent: 'center',
+  alignItems: 'center',
+  background: 'linear-gradient(135deg, #0d1117 0%, #111827 55%, #0d1117 100%)',
+  borderRadius: '18px',
+  border: '1px solid #30363d',
+  color: '#f0f6fc',
+  fontFamily: 'Inter',
+}}>
+  <div style={{
+    fontSize: '34px',
+    fontWeight: 800,
+    background: 'linear-gradient(90deg, #58a6ff, #a371f7, #39d353)',
+    backgroundClip: 'text',
+    color: 'transparent',
+  }}>
+    Sandeep Chawla
+  </div>
+  <div style={{ fontSize: '17px', marginTop: '12px', color: '#8b949e' }}>
+    Full-Stack Developer · Laravel · PHP · Vue.js · Filament
+  </div>
+  <div style={{ fontSize: '14px', marginTop: '10px', color: '#6e7681' }}>
+    Building clean, scalable and practical software
+  </div>
+</div>
+```
 
+## 🚀 About Me
 
-### 🚀 About Me
+I'm a **Full-Stack Developer** focused on the Laravel/PHP ecosystem, modern frontend development, APIs, integrations, and scalable business applications.
 
-I'm a developer passionate about building clean, scalable, and user-friendly web applications.  
-I enjoy designing intuitive UIs, optimizing performance, and writing maintainable code that balances simplicity with flexibility.
-
-- 🔭 Currently working on **Aureus ERP**
-- 💡 Focused on writing **clean, reusable, and testable** code
-- 🎨 Interested in both **UI/UX** and **backend architecture**
-- 🧩 Always exploring modern web tools and best practices
-
-
-### 🧰 Tech Stack
-
-#### 🖥️ Backend  
-<img title="PHP" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />&nbsp;
-<img title="Laravel" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" />&nbsp;
-<img title="Node.js" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />&nbsp;
-<img title="Express.js" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />
-#### 🎨 Frontend  
-<img title="HTML5" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />&nbsp;
-<img title="CSS3" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />&nbsp;
-<img title="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />&nbsp;
-<img title="Tailwind CSS" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />
-<img title="React" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />&nbsp;
-<img title="Next.js" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />&nbsp;
-<img title="Vue.js" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" />&nbsp;
-
-#### 🗄️ Database & DevOps  
-<img title="MySQL" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />&nbsp;
-<img title="PostgreSQL" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />&nbsp;
-<img title="Docker" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />&nbsp;
-<img title="Redis" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/redis/redis.png" />
-
-#### ⚙️ Tools  
-<img title="Git" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />&nbsp;
-<img title="GitHub" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />&nbsp; 
-<img title="Composer" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/composer/composer.png" />&nbsp;
-<img title="NPM" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" />&nbsp;
-<img title="VS Code" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />&nbsp;
-<img title="Postman" height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png" />
-
-
-<br />
+- 🔭 Working on **ERP and community platforms**
+- ⚙️ Laravel · PHP · Vue.js · Filament
+- 🐳 Docker · CI/CD · Linux
+- 🧪 Pest · PHPUnit · Playwright
+- ⚡ Interested in performance, architecture and automation
 
 ---
 
-![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeep-webkul&show_icons=true&hide_border=true)
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue,html,css,tailwind,vite,mysql,postgres,redis,sqlite,docker,linux,aws,cloudflare,git,githubactions,gitlab,vscode,postman,figma&theme=dark" alt="Tech stack" />
+</p>
 
+---
 
+## 📊 GitHub
 
-> 💬 _"Code is like design — it should be as simple as possible, but no simpler."_
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandeep-webkul&theme=tokyonight&animation=load" width="100%" alt="GitHub profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sandeep-webkul&theme=tokyonight&animation=rise" width="49%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sandeep-webkul&theme=tokyonight&animation=stagger" width="49%" alt="Repository languages" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeep-webkul/sandeep-webkul/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandeep-webkul/sandeep-webkul/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/sandeep-webkul/sandeep-webkul/output/snake-dark.svg" alt="Contribution Snake" width="100%" />
+  </picture>
+</p>
+
+---
+
+## 💼 Featured Work
+
+<p align="center">
+  <a href="https://github.com/sandeep-webkul/aureuserp">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=sandeep-webkul&repo=aureuserp&theme=tokyonight&hide_border=true" width="49%" alt="Aureus ERP" />
+  </a>
+  <a href="https://github.com/sandeep-webkul/dev-docs">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=sandeep-webkul&repo=dev-docs&theme=tokyonight&hide_border=true" width="49%" alt="Dev Docs" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sandeep-webkul/custom-fields">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=sandeep-webkul&repo=custom-fields&theme=tokyonight&hide_border=true" width="49%" alt="Custom Fields" />
+  </a>
+  <a href="https://github.com/sandeep-webkul/progress-stepper">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=sandeep-webkul&repo=progress-stepper&theme=tokyonight&hide_border=true" width="49%" alt="Progress Stepper" />
+  </a>
+</p>
+
+---
+
+## ⚡ What I Build
+
+<p align="center">
+
+`ERP` &nbsp; `APIs` &nbsp; `Integrations` &nbsp; `Admin Panels` &nbsp; `Real-time Apps`
+
+`Laravel` &nbsp; `Vue.js` &nbsp; `Filament` &nbsp; `Docker` &nbsp; `CI/CD`
+
+</p>
+
+---
+
+<p align="center">
+  <sub>Build → Break → Learn → Improve.</sub>
+</p>
