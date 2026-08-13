@@ -83,19 +83,11 @@ I'm a **Full-Stack Developer** focused on the Laravel/PHP ecosystem, modern fron
   <a href="https://github.com/sandeep-webkul/aureuserp">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=sandeep-webkul&repo=aureuserp&theme=tokyonight&hide_border=true" width="49%" alt="Aureus ERP" />
   </a>
-  <a href="https://github.com/sandeep-webkul/dev-docs">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=sandeep-webkul&repo=dev-docs&theme=tokyonight&hide_border=true" width="49%" alt="Dev Docs" />
+  <a href="https://github.com/sandeep-webkul/lite-speed-cache">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=sandeep-webkul&repo=lite-speed-cache&theme=tokyonight&hide_border=true" width="49%" alt="Dev Docs" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sandeep-webkul/custom-fields">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=sandeep-webkul&repo=custom-fields&theme=tokyonight&hide_border=true" width="49%" alt="Custom Fields" />
-  </a>
-  <a href="https://github.com/sandeep-webkul/progress-stepper">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=sandeep-webkul&repo=progress-stepper&theme=tokyonight&hide_border=true" width="49%" alt="Progress Stepper" />
-  </a>
-</p>
 
 ---
 
